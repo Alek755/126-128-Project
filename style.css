@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@600&display=swap');
+
+.header {
+    margin-top: 0px;
+    background-color: #0f292f;
+    padding: 15px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.12), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.12), 0 8px 8px rgba(0,0,0,0.12), 0 16px 16px rgba(0,0,0,0.12);
+}
+
+.title {
+    color: #14a098;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-family: 'IBM Plex Mono', monospace;
+
+}
+
+.title:hover {
+    color: white;
+}
+
+.creator {
+    color: white;
+    background-color: #18444e;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'IBM Plex Mono', monospace;
+
+}
+
+.song_name {
+    margin-left: 62%;
+    color: white;
+    background-color: #18444e;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'IBM Plex Mono', monospace;
+
+}
+
+canvas {
+    border-width: 10px;
+    border-color: #0f292f;
+    border-style: solid;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.12), 0 2px 2px rgba(0,0,0,0.12), 0 4px 4px rgba(0,0,0,0.12), 0 8px 8px rgba(0,0,0,0.12), 0 16px 16px rgba(0,0,0,0.12);
+}
